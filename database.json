@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "productType": "Билет на концерт группы Metallica",
+      "price": 6000,
+      "time": "14:00",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017.jpg/500px-Metallica_Live_at_The_O2%2C_London%2C_England%2C_22_October_2017.jpg",
+      "desc": "Metallica (читается как Мета́ллика) — американская метал-группа, образованная в 1981 году, в Лос-Анджелесе. Metallica оказала большое влияние на развитие метала и входит (вместе с такими группами как Slayer, Megadeth и Anthrax) в «большую четвёрку трэш-метала».",
+      "id": 1
+    },
+    {
+      "productType": "324234",
+      "price": 234234,
+      "time": "13:00",
+      "photo": "234234",
+      "desc": "234234234",
+      "id": 2
+    },
+    {
+      "productType": "234234",
+      "price": 234234,
+      "time": "14:00",
+      "photo": "234234",
+      "desc": "324234234",
+      "id": 3
+    },
+    {
+      "productType": "234234",
+      "price": 234324,
+      "time": "14:00",
+      "photo": "234234",
+      "desc": "234234",
+      "id": 4
+    },
+    {
+      "productType": "234234",
+      "price": 234234,
+      "time": "14:00",
+      "photo": "23424",
+      "desc": "234234",
+      "id": 5
+    },
+    {
+      "productType": "234234",
+      "price": 234234,
+      "time": "13:00",
+      "photo": "23432",
+      "desc": "234234",
+      "id": 6
+    },
+    {
+      "productType": "5555",
+      "price": 555,
+      "time": "13:00",
+      "photo": "jvjhvj",
+      "desc": "jhbkhbjk",
+      "id": 7
+    }
+  ]
+}
